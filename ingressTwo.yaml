@@ -1,0 +1,27 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: "polyglot-ingress"
+  namespace: "workshop"
+  annotations:
+    kubernetes.io/ingress.class: alb
+    alb.ingress.kubernetes.io/scheme: internet-facing
+    # alb.ingress.kubernetes.io/group.name: finalexam
+    alb.ingress.kubernetes.io/listen-ports: '[{"HTTPS":443}, {"HTTP":80}]'
+    alb.ingress.kubernetes.io/certificate-arn: arn:aws:acm:eu-west-2:768896297792:certificate/c65d5f4d-0e54-4c11-8fe6-628f24868ef2
+
+  labels:
+    app: polyglot-ingress
+
+spec:
+  rules:
+  - host: polyglot.faitharowosafe.me   
+  - http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: frontend
+            port:
+              number: 80
