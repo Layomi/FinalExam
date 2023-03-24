@@ -2,20 +2,16 @@
 ## For sock-shop : sock-shop.faitharowosafe.me
 ## For polyglot: polyglot.faitharowosafe.me
 
-![Screenshot (626)](https://user-images.githubusercontent.com/34780490/227643099-1b19ccd8-b0a7-4488-9eea-f6c4d941d494.png)
+![Screenshot (642)](https://user-images.githubusercontent.com/34780490/227645114-8d7d5b41-8a7c-437f-bbf6-fa824f8c95ae.png)
 
-![Screenshot (627)](https://user-images.githubusercontent.com/34780490/227643124-ac2fc655-bd52-4824-9b37-8f4c064b0619.png)
+![Screenshot (643)](https://user-images.githubusercontent.com/34780490/227645076-68295107-196f-4976-bb19-e3e99b40cfd5.png)
 
-![Screenshot (628)](https://user-images.githubusercontent.com/34780490/227643143-82383427-1f99-4e30-a5f9-3da06f0c3858.png)
+![Screenshot (644)](https://user-images.githubusercontent.com/34780490/227645075-9c4f3b85-14ed-437b-81f0-731f48320eee.png)
 
-![Screenshot (629)](https://user-images.githubusercontent.com/34780490/227643158-d74a7a17-ba69-47eb-811f-a0a6321292dd.png)
+![Screenshot (636)](https://user-images.githubusercontent.com/34780490/227645220-076b9cc7-8a19-4970-bcc8-af6c632bb2e9.png)
 
-![Screenshot (631)](https://user-images.githubusercontent.com/34780490/227643162-beaccc82-9d9b-4c85-aae5-b7d693e5bf3a.png)
-
-![Screenshot (630)](https://user-images.githubusercontent.com/34780490/227643166-d450a92b-456b-4d9d-9e37-80afd11a7ab8.png)
-
-![Screenshot (636)](https://user-images.githubusercontent.com/34780490/227643645-c499516a-77fd-4365-948c-0e9f331b0204.png)
-
-![Screenshot (634)](https://user-images.githubusercontent.com/34780490/227643673-2ec19073-90c5-4085-919a-bd24693b0bb2.png)
-
-![Screenshot (633)](https://user-images.githubusercontent.com/34780490/227643677-b0d127bb-9d11-4793-af7a-80528ecc15b9.png)
+![Screenshot (637)](https://user-images.githubusercontent.com/34780490/227645193-0f4fe903-336b-450c-ab9b-c05268e2a214.png)
+![Screenshot (641)](https://user-images.githubusercontent.com/34780490/227645194-a5469875-5a15-4508-81e4-5f4365ed8d36.png)
+![Screenshot (640)](https://user-images.githubusercontent.com/34780490/227645196-28858558-ac3d-44da-853d-d98d29cfc7a2.png)
+![Screenshot (639)](https://user-images.githubusercontent.com/34780490/227645197-44786786-ae6c-4794-904c-b396a7840e56.png)
+![Screenshot (638)](https://user-images.githubusercontent.com/34780490/227645198-848c4897-94d5-4f13-ab6c-f2f06876dd96.png)
