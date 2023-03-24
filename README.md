@@ -8,7 +8,7 @@
 ### With all these being written, kindly find attached images with proper descriptions below 
 
 
-![An image of the web app deployed on the cluster)](https://user-images.githubusercontent.com/34780490/227645114-8d7d5b41-8a7c-437f-bbf6-fa824f8c95ae.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/34780490/227645114-8d7d5b41-8a7c-437f-bbf6-fa824f8c95ae.png)
 
 ![Screenshot (643)](https://user-images.githubusercontent.com/34780490/227645076-68295107-196f-4976-bb19-e3e99b40cfd5.png)
 
