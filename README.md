@@ -3,9 +3,9 @@
 ## For polyglot: polyglot.faitharowosafe.me
 
 ### Hi Valentine/Kunrad, 
-### You are seeing this beacuse I wasn't able to keep up with the AWS bills but I have done a thing by attacing images I think are important for your reference/review. If there is any image I am missing, I can always apply my terraform again and provide the image(s) when requested. 
+### You are seeing this beacuse I wasn't able to keep up with the AWS bills and I have attached images I think are important for your reference/review. 
 
-### With all these being written, kindly find attached images with proper descriptions below 
+### Kindly find below images 
 
 
 ![Screenshot (64)](https://user-images.githubusercontent.com/34780490/227645114-8d7d5b41-8a7c-437f-bbf6-fa824f8c95ae.png)
