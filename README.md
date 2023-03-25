@@ -1,6 +1,4 @@
-# URL 
-## For sock-shop : sock-shop.faitharowosafe.me
-## For polyglot: polyglot.faitharowosafe.me
+### Images
 
 ### Web App
 ![Screenshot (64)](https://user-images.githubusercontent.com/34780490/227645114-8d7d5b41-8a7c-437f-bbf6-fa824f8c95ae.png)
