@@ -19,3 +19,6 @@
 ![Screenshot (641)](https://user-images.githubusercontent.com/34780490/227645194-a5469875-5a15-4508-81e4-5f4365ed8d36.png)
 ![Screenshot (640)](https://user-images.githubusercontent.com/34780490/227645196-28858558-ac3d-44da-853d-d98d29cfc7a2.png)
 
+### Monitoring
+![Screenshot (665)](https://user-images.githubusercontent.com/34780490/227748142-ec1bca89-8d46-4450-91ef-1537ef1edda9.png)
+
